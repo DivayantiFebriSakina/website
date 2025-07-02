@@ -8,4 +8,4 @@ statsmodels
 joblib
 openpyxl
 pillow
-tensorflow==2.12.0
+tensorflow
