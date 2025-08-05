@@ -1,4 +1,4 @@
-# website Prediksi Harga Telur Ayam Jawa Tengah
+# Website Prediksi Harga Telur Ayam Jawa Tengah
 Prediksi Harga Telur Ayam Jawa Tengah menyediakan sejumlah fitur utama untuk memfasilitasi proses prediksi dan analisis harga telur ayam di Jawa Tengah. Fitur-fitur ini dirancang secara khusus untuk mendukung visualisasi data, pengolahan data, penerapan model Hybrid ARIMAX-LSTM, serta Prediksi masa depan harga telur ayam dengan mempertimbangkan harga produk subtitusinya dan idenditikasi menjelang hingga saat libur nasional untuk mendukung pengambilan keputusan berbasis data:
 1.	Menu About: Menampilkan informasi mengenai sistem prediksi harga telur ayam di Jawa Tengah seperti tujuan aplikasi, cakupan data, variabel yang digunakan, model yang digunakan, informasi mengenai pengembang, dan lisensi 
 2.	Menu Upload Data: Memungkinkan pengguna untuk data penelitian yaitu data harga telur ayam ras di Jawa Tengah pada tanggal 01 Januari 2019 hingga 31 Desember 2024 dalam bentuk file Excel dengan ukuran maksimal 200MB dan harus terdapat kolom “Tanggal”, “Harga_Telur”, “Harga_Daging_Ayam”, “Harga_Daging_Sapi”, dan “Libur_Nasional”
